@@ -19,4 +19,4 @@ React · Next.js · TypeScript · Node.js · Tailwind CSS · Zustand · TanStack
 ## Links
 
 - 🌐 [avanilsonsantos.com](https://avanilsonsantos.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/avanilson-santos-88113768)
+- 💼 [LinkedIn](https://www.linkedin.com/in/avanilson-santos)
