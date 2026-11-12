@@ -1,6 +1,6 @@
 # Hi, I'm Avanilson 👋
 
-Senior Frontend Developer with 12+ years of experience building production apps with React, Next.js, and TypeScript.
+Senior Frontend Developer with 10+ years of experience building production apps with React, Next.js, and TypeScript.
 
 Currently at **Ci&T**, working on distributed remote teams. Previously at ThoughtWorks, Accenture, and Capgemini.
 
